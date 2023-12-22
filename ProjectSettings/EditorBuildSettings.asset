@@ -6,21 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/HyperCasualRunner/Demos/_Games/Initialization.unity
-    guid: 3d370e3769ad744c88e64cd69f9f95f2
+    path: Assets/Scenes/Scenes/Menu.unity
+    guid: 54aad29c246e8244eb8ec5a7aa300835
   - enabled: 1
-    path: Assets/HyperCasualRunner/Demos/_Games/MasterOfCounts/MoC_Gameplay.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/Scenes/FirstScene.unity
+    guid: e04fee61a3e945f49a66717d07b151e8
   - enabled: 1
-    path: Assets/HyperCasualRunner/Demos/_Games/StackOfCoffees/SoC_Gameplay.unity
-    guid: cee183e4e95d346b89c6d6888464627c
+    path: Assets/Scenes/Scenes/melih.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/HyperCasualRunner/Demos/_Games/EvolutionOfCrowds/EoC_Gameplay.unity
-    guid: 3b2668ec3ed2248a88b653d3450da356
+    path: Assets/Scenes/Scenes/Bitis.unity
+    guid: 3b33315a5f96b7643a78b44dd13cebf8
   - enabled: 1
-    path: Assets/HyperCasualRunner/Demos/_Games/EvolutionOfCars/EoCars_Gameplay.unity
-    guid: fc811fd77585148edbd8931ac966ea2e
-  - enabled: 1
-    path: Assets/HyperCasualRunner/Demos/_Games/RunOfDestiny/RoD_Gameplay.unity
-    guid: d3394c1b2f5f04e0fa328227511882ee
+    path: Assets/Scenes/Scenes/Last.unity
+    guid: be0618b2e6273c34e98ac478c11c19ca
   m_configObjects: {}
